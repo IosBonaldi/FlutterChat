@@ -1,4 +1,4 @@
-# udemychatflutter
+# FlutterChat
 
 A Flutter chat application.
 
